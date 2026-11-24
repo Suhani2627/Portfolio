@@ -115,7 +115,7 @@ function App() {
         <span className="inline-block bg-white/10 border border-white/20 text-cyan-300 text-xs font-semibold px-4 py-2 rounded-full tracking-widest">LEARNING • BUILDING • GROWING</span>
         <div className="mt-8 flex justify-center">
           <div className="w-52 h-52 md:w-64 md:h-64 rounded-full p-1.5 bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500 shadow-2xl shadow-blue-600/50">
-            <img src="/Portfolio/hero.png" alt="Suhani Pagade" className="w-full h-full rounded-full object-cover object-top border-4 border-[#0A1128]" />
+            <img src="/Portfolio/PROFphoto.jpeg" alt="Suhani Pagade" className="w-full h-full rounded-full object-cover object-top border-4 border-[#0A1128]" />
           </div>
         </div>
         <p className="text-cyan-400 font-semibold text-sm tracking-widest uppercase mt-6">Full Stack Java Developer</p>

@@ -8,9 +8,9 @@ function App() {
 
   const projects = [
     {
-      title: "Hotel Booking System",
+      title: "Hotel Management System",
       desc: "A full-stack web application for room booking and management. Users can search rooms, check availability and book.",
-      tech: ["React", "Spring Boot", "MySQL"],
+      tech: ["Reactjs", "Spring Boot", "MySQL"],
       github: "#",
       live: "#"
     },

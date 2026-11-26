@@ -65,11 +65,11 @@ function App() {
                 <p className="text-xs text-gray-400"> Email</p>
                 
               </a>
-              <a href="https://www.linkedin.com/feed/foryou/" target="_blank" rel="noreferrer" className="w-full bg-white/[0.06] border border-white/10 rounded-2xl p-4 block text-left">
+              <a href="https://www.linkedin.com/in/suhani-pagade-28b351386/" target="_blank" rel="noreferrer" className="w-full bg-white/[0.06] border border-white/10 rounded-2xl p-4 block text-left">
                 <p className="text-xs text-gray-400"> LinkedIn</p>
                 
               </a>
-              <a href="https://github.com/" target="_blank" rel="noreferrer" className="w-full bg-white/[0.06] border border-white/10 rounded-2xl p-4 block text-left">
+              <a href="https://github.com/suhani2627" target="_blank" rel="noreferrer" className="w-full bg-white/[0.06] border border-white/10 rounded-2xl p-4 block text-left">
                 <p className="text-xs text-gray-400"> GitHub</p>
                
               </a>

@@ -62,16 +62,16 @@ function App() {
           <div className="bg-white/[0.04] border border-white/10 rounded-3xl p-6 md:p-8 w-full mt-8">
             <div className="flex flex-col gap-3 w-full">
               <a href="mailto:suhanipagade123@gmail.com" className="w-full bg-white/[0.06] border border-white/10 rounded-2xl p-4 block text-left">
-                <p className="text-xs text-gray-400">📧 Email</p>
-                <p className="text-sm font-semibold mt-1 break-all">suhanipagade123@gmail.com</p>
+                <p className="text-xs text-gray-400"> Email</p>
+                
               </a>
               <a href="https://www.linkedin.com/feed/foryou/" target="_blank" rel="noreferrer" className="w-full bg-white/[0.06] border border-white/10 rounded-2xl p-4 block text-left">
-                <p className="text-xs text-gray-400">💼 LinkedIn</p>
-                <p className="text-sm font-semibold mt-1">Suhani Pagade</p>
+                <p className="text-xs text-gray-400"> LinkedIn</p>
+                
               </a>
               <a href="https://github.com/" target="_blank" rel="noreferrer" className="w-full bg-white/[0.06] border border-white/10 rounded-2xl p-4 block text-left">
-                <p className="text-xs text-gray-400">💻 GitHub</p>
-                <p className="text-sm font-semibold mt-1">github.com</p>
+                <p className="text-xs text-gray-400"> GitHub</p>
+               
               </a>
             </div>
             <p className="text-gray-500 text-xs mt-4 text-center">📍 Pimpri, Maharashtra, India</p>
